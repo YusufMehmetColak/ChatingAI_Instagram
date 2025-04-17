@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Beyaz Sneaker",
+    "price": "599 TL",
+    "stock": 12,
+    "campaign": "2 al 1 bedava"
+  },
+  {
+    "name": "Siyah Çanta",
+    "price": "429 TL",
+    "stock": 0,
+    "campaign": null
+  },
+  {
+    "name": "Bej Kaban",
+    "price": "999 TL",
+    "stock": 3,
+    "campaign": "Kargo ücretsiz"
+  }
+]
